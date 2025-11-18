@@ -1,4 +1,4 @@
-package Upcasting;
+package Downcasting;
 
 public class Pekerja {
     public Pekerja() {}
